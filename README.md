@@ -2,13 +2,13 @@
  Fiz esse site para treinar minhas habilidades em Sass.
 
 
-Welcome! 👋
+<h1>Welcome! 👋</h1>
 
 ![](./assets/github-image/github-image.png)
 
 
-The challenge
-Link para testar o projeto : <a href="https://fylo-project-s.netlify.app/">Fylo</a> - RESPONSIVO ✔️
+<h2>The challenge</h2>
+<p>Link para testar o projeto : <a href="https://fylo-project-s.netlify.app/">Fylo</a> - RESPONSIVO ✔️</p>
 
 Nesse Projeto Usei as seguintes tecnologias :
 
