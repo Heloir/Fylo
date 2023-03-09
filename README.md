@@ -7,7 +7,7 @@ Welcome! 👋
 
 
 The challenge
-Link para testar o projeto : <a href="https://fylo-project-s.netlify.app/">Fylo</a>
+Link para testar o projeto : <a href="https://fylo-project-s.netlify.app/">Fylo</a> - RESPONSIVO ✔️
 
 Nesse Projeto Usei as seguintes tecnologias :
 
