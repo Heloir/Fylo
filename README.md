@@ -4,6 +4,7 @@
 
 Welcome! 👋
 
+![](./assets/github-image/github-image.png)
 
 
 The challenge
