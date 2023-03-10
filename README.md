@@ -2,21 +2,25 @@
  Fiz esse site para treinar minhas habilidades em Sass.
 
 
-Welcome! 👋
+<h1>Welcome! 👋</h1>
+
+![](./assets/github-image/github-image.png)
 
 
+<h2>The challenge</h2>
+<p>Link para testar o projeto : <a href="https://fylo-project-s.netlify.app/">Fylo</a> - RESPONSIVO ✔️</p>
 
-The challenge
-Link para testar o projeto : <a href="https://fylo-project-s.netlify.app/">Fylo</a> - RESPONSIVO ✔️
+<ul>
+<p>Nesse Projeto Usei as seguintes tecnologias :<p>
 
-Nesse Projeto Usei as seguintes tecnologias :
-
-HTML
-CSS
-Sass (scss)
-JavaScript
-Git
-Github
-Node.js
-
-Ideia fornecida por: [Frontend Mentor]
+<li>HTML
+<li>CSS
+<li>Sass (scss)
+<li>JavaScript
+<li>Git
+<li>Github
+<li>Node.js
+</ul>
+ 
+ 
+ <p>Ideia fornecida por: [Frontend Mentor]</p>
